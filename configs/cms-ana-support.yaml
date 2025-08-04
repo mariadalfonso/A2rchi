@@ -10,6 +10,7 @@ locations_of_secrets:
 chains:
   input_lists:  
     - configs/cms-ana.list
+    - configs/cms-lpc-hats.list
 
   chain:
     MODEL_NAME: HuggingFaceOpenLLM
@@ -29,7 +30,9 @@ interfaces:
     PORT: 50000
     EXTERNAL_PORT: 50000
     HOSTNAME: "submit76.mit.edu"
-  
+  grafana:
+    EXTERNAL_PORT: 3001
+
 utils:
   embeddings:
     EMBEDDING_NAME: HuggingFaceEmbeddings

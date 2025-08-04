@@ -1,6 +1,19 @@
-## LPC hats 2025
+### General analysis documents
 
-## schedule
-https://lpc.fnal.gov/programs/schools-workshops/hats.shtml
+## CMS specific: building blocks of the analysis
+# nano v15 content
+https://cms-nanoaod-integration.web.cern.ch/autoDoc/NanoAODv15/2024/doc_TTH-Hto2G_Par-M-125_TuneCP5_13p6TeV_amcatnloFXFX-pythia8_RunIII2024Summer24NanoAODv15-150X_mcRun3_2024_realistic_v2-v2.html
+# correction lib
+#https://cms-nanoaod.github.io/correctionlib/
+#https://gitlab.cern.ch/cms-nanoAOD/jsonpog-integration
 
-## 
+## CMS analysis Facilities
+https://coffea-casa.readthedocs.io/en/latest/
+https://analysis-facility.physics.purdue.edu/en/latest/
+https://submit.mit.edu/submit-users-guide/
+http://submit08.mit.edu/~mariadlf/CoffeaQandA/CoffeaQandA.txt
+
+##
+https://hsf-training.org/training-center/
+https://coffea-hep.readthedocs.io/en/latest/
+https://uproot.readthedocs.io/en/stable/basic.html
